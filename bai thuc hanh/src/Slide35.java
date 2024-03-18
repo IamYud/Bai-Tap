@@ -10,7 +10,6 @@ public class Slide35 {
         double SoNhoNhat = Math.min(num1,num2);
         System.out.println("So nho nhat la "+ SoNhoNhat);
         sc.close();
-        
     }
 }
     
