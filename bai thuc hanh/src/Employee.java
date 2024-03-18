@@ -5,7 +5,6 @@ public class Employee {
         nv.NhapThongtin();
         nv.XuatThongtin();
         nv.LuongTK();
-
         
     }
     public class Nhanvien{
