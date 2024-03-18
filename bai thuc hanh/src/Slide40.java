@@ -4,8 +4,6 @@ public class Slide40 {
         Scanner sc = new Scanner(System.in);
         System.out.print("moi ban nhap ngay :");
         int ngay = sc.nextInt();
-    
-
         switch(ngay){
             case 0:
             System.out.print("Chu nhat");
