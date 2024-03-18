@@ -1,4 +1,5 @@
 public class Baislide22lab3 {
+    
     public static void main(String[] args) {
         HinhTron hinhtron = new HinhTron();
         hinhtron.NhapBanKinh();
