@@ -38,4 +38,5 @@ void Diemtongket() {
     Diemtk = ( DiemX + DiemY + DiemZ )/3;
     System.out.println("Diem tong ket : " +Diemtk);
 }
+
 }
