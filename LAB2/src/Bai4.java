@@ -1,12 +1,9 @@
 import java.util.Scanner;
 public  class Bai4 {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("nhap 1 so nguyen :");
         int so = sc.nextInt();
-        
-        
         switch (so) {
             case 1:
                 System.out.print("thang 1");
