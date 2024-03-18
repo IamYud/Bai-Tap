@@ -24,4 +24,5 @@ public class PhuongTrinhBacHai {
         System.out.println("x2 = " +x2);
         }
     }
+    
 }
