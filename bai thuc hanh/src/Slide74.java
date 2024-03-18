@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class Slide74 {
-
     public static void main(String[] args) {
         int n;
         int Tong = 0;
