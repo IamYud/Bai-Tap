@@ -10,6 +10,7 @@ public class Slide47 {
           } while (sum < 100); 
             System.out.println("Tong cac so vua nhap = "+sum);
             sc.close();
-           } 
+           }
+            
         }
        
