@@ -11,4 +11,5 @@ public class Bai2 {
         System.out.println("so vua nhap la so le");
         scanner.close();
     }
+    
 }
