@@ -25,5 +25,6 @@ public class Bai1 {
             System.out.println("Hai so bang nhau");
         }
         scanner.close();
+        
     }
 }
