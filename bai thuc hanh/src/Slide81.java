@@ -24,4 +24,5 @@ public class Slide81 {
         }System.out.println("Phan tu co gia tri lon nhat la =" +max);
         sc.close();
     } 
+    
 }
