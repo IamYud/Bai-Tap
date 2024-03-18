@@ -10,6 +10,7 @@ public class Bai5 {
        tong += number;
    reString = reString + number + " + ";
     }
+    
    System.out.println(reString.substring(0,reString.length()-2)+ "= "+tong);
     sc.close();
     } 
