@@ -21,4 +21,5 @@ public static void giaiPhuongTrinhBacNhat(double a,double b){
         System.out.println("Nghiem Cua Phuong Trinh La x =" +x);
     }
 }
+
 }
