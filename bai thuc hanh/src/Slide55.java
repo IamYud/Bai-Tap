@@ -12,5 +12,4 @@ public class Slide55 {
     }
     sc.close();
 }
-
 }
