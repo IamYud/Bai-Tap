@@ -15,7 +15,6 @@ class HinhTron {
     float r;
     float cv;
     float dt;
-
     void NhapBanKinh() {
         System.err.print("Nhap ban kinh cua hinh tron : ");
         Scanner scanner = new Scanner(System.in);
