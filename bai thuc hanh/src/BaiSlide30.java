@@ -13,4 +13,5 @@ public static void main(String[] args) {
     scanner.close();        
     System.out.println("Tong cac chu so = " + tong);
 }
+
 }
