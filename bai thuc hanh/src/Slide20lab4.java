@@ -2,7 +2,7 @@ package List;
 import java.util.ArrayList;
 import java.util.ListIterator;
 
-class lide20lab4 {
+class Slide20lab4 {
     public static void main(String[] args) {
         ArrayList<Character> arrayListChar = new ArrayList<>();
         arrayListChar.add('a');
